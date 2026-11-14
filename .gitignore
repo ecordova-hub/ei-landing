@@ -1,0 +1,9 @@
+# Public repo: only the website files are published.
+# Project docs, sources (personal screenshot) and tool settings stay local.
+/*
+!/index.html
+!/styles.css
+!/script.js
+!/favicon.svg
+!/README.md
+!/.gitignore
